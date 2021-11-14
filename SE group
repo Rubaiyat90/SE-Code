@@ -1,5 +1,5 @@
 import java.lang.*;
-
+Added something
 public class RentingValuableStuffs
 {  
 private String Name ;
